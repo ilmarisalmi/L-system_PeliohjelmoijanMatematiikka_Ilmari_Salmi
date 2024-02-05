@@ -1,0 +1,5 @@
+L-system esittely video: 
+https://youtu.be/InSkczOEehU
+
+Github/Lähdekoodi:
+https://github.com/ilmarisalmi/L-system_PeliohjelmoijanMatematiikka_Ilmari_Salmi
